@@ -14,6 +14,8 @@ struct ContentView: View {
             Text("Hello, GitHub!")
                 .font(/*@START_MENU_TOKEN@*/.title/*@END_MENU_TOKEN@*/)
             Text("This is Grooooooo")
+            Text("This is Grooooooo")
+            Text("This is Grooooooo")
         }
         .padding()
     }
